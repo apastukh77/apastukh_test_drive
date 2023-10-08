@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6876bdd4-ccc5-485d-992f-2523a7881a57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/libs/CommonActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/libs/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/libs/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/libs/TestsHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SeleniumPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/WikiMainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test_drive/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="6876bdd4-ccc5-485d-992f-2523a7881a57" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
